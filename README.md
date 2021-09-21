@@ -7,3 +7,6 @@
 
 ### MoM 2021 Week 36:
 [Makeovermonday w36/2021 - Tableau](https://ferhalvarez.github.io/infovis2021/MoM2021_w36.html)
+
+### MoM 2021 Week 37:
+[Makeovermonday w37/2021 - Tableau/Observable](https://ferhalvarez.github.io/infovis2021/MoM2021_w37.html)
