@@ -1,2 +1,4 @@
 Parallel Coordinates
 Adjacency Diagrams
+Force-directed Layouts
+Arc Diagrams
